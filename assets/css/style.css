@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-image: url("../images/bg.jfif");
+}
+
+.container {
+    background-color: whitesmoke;
+    padding: 1%;
+    opacity: 0.8;
+    width: 40%;
+    margin: auto;
+    border-radius: 50%;
+}
+
+p {
+    font-weight: bold;
+    font-size: 130%;
+}
+
+#p1 {
+    font-size: 150%;
+}
+
+h1 {
+    color: white;
+    font-size: 400%;
+    padding: 1%;
+}
